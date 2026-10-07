@@ -1,0 +1,8 @@
+{
+    "start_button_x": 514,
+    "start_button_y": 346,
+    "loop_delay": 10,
+    "action_delay": 2,
+    "page_load_delay": 5,
+    "key_delay": 0.3
+}
